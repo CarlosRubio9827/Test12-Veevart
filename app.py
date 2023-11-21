@@ -38,7 +38,5 @@ def game(tiros):
 
     return isWin
 
-# print(game([3,5,5,4]))
-# print(game([6,3,1,2,2]))
-
-# game([6,3,1,2])
+game([3,5,5,4])
+game([6,3,1,2,2])
